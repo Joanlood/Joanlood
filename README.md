@@ -1,4 +1,3 @@
 
 - Hi my Name is Tokyo, i like Programming in my free Time.
-- I especially focused on discontinued Hardware/Software like MCSM or Daydream VR
-- Right now my biggest projekt is a VR Game (More Info soon)
+- Right now my biggest projekt is a ... (More Info soon)
