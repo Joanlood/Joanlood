@@ -40,4 +40,3 @@ My personal stats:
 **E**ngineering cool projects,  
 **E**xperimenting with new tech, and  
 **T**inkering just for fun.
-![🦶 I Love Feet](https://img.shields.io/badge/-🦶%20I%20Love%20Feet-ff69b4?style=flat&logoColor=white)
