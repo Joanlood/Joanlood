@@ -8,6 +8,7 @@ Operating Systems i use:
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/-Ubuntu%20Server-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 
 
 Languages i speak fluently:
