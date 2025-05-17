@@ -34,3 +34,8 @@ My personal stats:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Joanlood&show_icons=true&hide_border=true&theme=radical)
 
+## 🧠 Things I Like  
+**F**inding creative solutions  
+**E**ngineering cool projects  
+**E**xperimenting with new tech  
+**T**inkering just for fun
